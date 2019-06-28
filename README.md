@@ -11,6 +11,8 @@ Programming projects I've done at university. My major is called Information Sci
 ### [Xamarin MVVM appplication](https://github.com/xtenzQ/Xamarin-MVVM-EFC-Example) 
 3-tier Xamarin master-detail application with the MVVM pattern and ASP.NET Core service
 
+🏷 Tags: `C#` `MVVM` `Xamarin-Forms` `EFCore` `ASP.NET Core`
+
 ### [QBrowser](https://github.com/xtenzQ/QBrowser)
 Qtwebkit-based web browser with custom address bar and source code syntax highlighter
 
