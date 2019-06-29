@@ -18,6 +18,11 @@ Qtwebkit-based web browser with custom address bar and source code syntax highli
 
 🏷 Tags: `C++` `Qt` `QtWebkitWidgets` 
 
+### [QBroadcastMessenger](https://github.com/xtenzQ/QBroadcastMessenger)
+Simple messenger based on UDP socket broadcast
+
+🏷 Tags: `C++` `Qt` `EMIPLIB` 
+
 ## Computer graphics
 ### [2D metaballs](https://github.com/xtenzQ/2D-metaballs)
 Two dimensional metaballs Java implementation using OpenGL
