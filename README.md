@@ -1,5 +1,5 @@
 # 🎓 My University Projects
-Programming projects I've done at university. My major is called Information Science and Computer Engineering.
+Programming projects I've done at university. My major is called Information and Computer Engineering.
 
 ## Software engineering
 
